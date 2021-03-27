@@ -5,6 +5,8 @@ cc-tool provides CC-Debugger support for Linux and Mac. More info can be found a
 
 To install it, just tap and install:
 
-    brew tap jasonpritchard/cc-tool
+    brew tap jwhb/cc-tool
     brew install cc-tool
+
+Tested on macOS Big Sur 11.2.3.
 
